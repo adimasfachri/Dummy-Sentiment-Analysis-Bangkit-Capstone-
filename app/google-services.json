@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260109896315",
+    "project_id": "test-nlp-a0845",
+    "storage_bucket": "test-nlp-a0845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260109896315:android:e337ae618691194ca4b0de",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.codelabs.textclassification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260109896315-3k56b2qthvaulrc4590t0hfifkpj5kgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPTiudKaZUifmNMKbjkKkj8WcO-ePbCu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260109896315-3k56b2qthvaulrc4590t0hfifkpj5kgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
